@@ -1,7 +1,7 @@
 {
-    "url": "",
+    "url": "https://raw.githubusercontent.com/Tris0n/swagger-xss-poc/master/xss-fetch.yaml",
     "urls": [{
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Tris0n/swagger-xss-poc/master/xss-fetch.yaml",
         "name": "Foo"
     }]
 }
